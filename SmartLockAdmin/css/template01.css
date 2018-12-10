@@ -1,0 +1,37 @@
+#bannerCol{
+    align-content: center;
+}
+#banner{
+    height: 400px;
+    width: 1600px;
+}
+#product{
+    height: 500px;
+    width: 2000px;
+}
+#product1{
+    height: 200px;
+    width: 500px;
+}
+body {
+   
+	background-color: whitesmoke;
+}
+
+
+.row{
+  overflow: hidden; 
+  color:red;
+    text-align: center;
+}
+
+.navbar{
+    
+	background-color:ghostwhite;
+	text-align: center;
+	border: 1px solid;
+    border-color: red;
+	border-radius: 10px;
+}
+
+
