@@ -1,7 +1,7 @@
 <?php
 $dbServername = "localhost";
 $dbUsername = "root";
-$dbPassword = "admin123";
+$dbPassword = "";
 $dbName = "smartlockdb";
 
 $conn = mysqli_connect($dbServername, $dbUsername, $dbPassword, $dbName);
